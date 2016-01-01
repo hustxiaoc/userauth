@@ -35,14 +35,14 @@
     "mm": "1",
     "mocha": "*",
     "pedding": "*",
-    "should": "6",
+    "should": "8.0.2",
     "should-http": "*",
     "supertest": "1"
   },
   "dependencies": {
     "copy-to": "~2.0.1",
     "debug": "~2.2.0",
-    "is-type-of": "~0.3.1",
+    "is-type-of": "~1.0.0",
     "path-match": "~1.2.2"
   },
   "engines": {
